@@ -1,8 +1,8 @@
 # Contributing
 
-When contributing to this repository, please first read the steps carefully at https://www.gitstart.tech.
+When contributing to this repository, please first read the steps carefully at https://zubi.gitbook.io/open-source-fiesta/.
 
-Please note we have a [Code of Conduct](https://github.com/rishabh-bansal/GitStart/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Please note we have a [Code of Conduct](https://github.com/Zubi-io/Lets-Get-Started/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 ## Things to remember while contributing :
 

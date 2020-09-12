@@ -1,4 +1,0 @@
----
-username: AllenAJ
-fullname: Allen
----

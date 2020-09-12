@@ -1,8 +1,8 @@
 {
-  "name": "Test",
-  "description": "GitStart",
+  "name": "Zubi",
+  "description": "Hacktoberfest 2020",
   "version": "1.0.0",
-  "author": "Allen Joseph <sdfsdf@gmail.com>",
+  "author": "Allen Joseph <allenjosephquery@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",

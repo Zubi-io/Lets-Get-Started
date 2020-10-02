@@ -49,7 +49,7 @@ a {
     display: block;
   height: 200px;
   width: 400px;
-
+  
 }
 
 .nav .brand-text {
@@ -206,35 +206,6 @@ footer a {
   color: #0366d6;
   text-decoration: none;
 }
-
-.toTop {
-  display: flex;
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  justify-content: center;
-  align-items: center;
-  border: 1px solid #a1a1a1;
-  padding: 8px;
-  border-radius: 50px;
-  outline: none;
-}
-
-.toTop:hover {
-  cursor: pointer;
-  background: #e1e1e1;
-}
-
-.toTop svg {
-  border: 1px solid #d1d1d1;
-  border-radius: 50px;
-  padding: 8px;
-}
-
-.toTop span {
-  margin: 0 8px;
-}
-
 
 /*
   ##Device = Most of the Smartphones Mobiles (Portrait)

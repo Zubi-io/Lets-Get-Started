@@ -1,8 +1,7 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
-import { useScrollPosition } from '@n8tb1t/use-scroll-position'
 
 import Header from '../components/header'
 import Footer from '../components/footer'
@@ -12,9 +11,14 @@ import './index.css'
 const Layout = ({ children, data }) => {
   const [showBackToTop, setShowBackToTop] = useState(false)
 
-  useScrollPosition(({ currPos }) => {
-    setShowBackToTop(!!currPos.y)
-  });
+  useEffect(() => {
+    const onScroll = (e) => {
+      setShowBackToTop(!!e.target.documentElement.scrollTop);
+    };
+    window.addEventListener("scroll", onScroll);
+
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
 
   return (
     <div>

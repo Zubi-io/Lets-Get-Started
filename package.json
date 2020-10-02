@@ -11,6 +11,8 @@
     "gatsby-plugin-sitemap": "^1.2.25",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-transformer-remark": "^1.7.44",
+    "react": "16.8.0",
+    "react-dom": "16.8.0",
     "react-helmet": "^5.2.0"
   },
   "keywords": [

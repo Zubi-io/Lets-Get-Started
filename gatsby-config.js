@@ -18,14 +18,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "",
-        // Avoids sending pageview hits from custom paths
-        exclude: ["/preview/**", "/do-not-track/me/too/"],
-      },
-    },
-    {
       //for generating sitemaps for the website
       resolve: `gatsby-plugin-sitemap`
     }

@@ -1,4 +1,4 @@
 ---
 username: Raniyer
-fullname: NITIN SAMPAT KENDRE
+fullname: Nidhi Raniyer
 ---

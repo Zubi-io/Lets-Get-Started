@@ -5,4 +5,4 @@ Tip: The perfect pull request is correctly branched and shows a good set of chan
 
 
 
-Follow the instructions [here](https://zubi.gitbook.io/open-source-fiesta/) to get started. 
+Follow the instructions [here](https://zubi.gitbook.io/open-source-fiesta/) to get started!. 

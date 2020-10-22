@@ -1,4 +1,4 @@
 ---
 username: dijodaiju7
-fullname: Dijo Daiju
+fullname: Dijo Daiju Chirakkal
 ---
